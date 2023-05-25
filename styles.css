@@ -1,0 +1,114 @@
+/*видео на 1:20:03*/
+
+
+body {
+    background-color: wheat;
+    font-size: 24px;
+    font-family:sans-serif
+}
+.JK {
+    width: 600px;
+    border-radius: 75px;
+    
+}
+.LL p {
+    color:salmon;  margin: 0; 
+    text-decoration: underline; /*эта команда нужна что бы подчеркнуть текст */
+    
+}
+h2 {color: rgb(77, 42, 2);}
+.alfa {
+    background: rgb(62, 196, 62);
+    border: 5px solid black;
+    border-bottom-style: dashed;
+    border-top-style: dashed;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    border-left-color: white;
+    border-right-color: white ;
+}
+.bomber {
+    width: 950px; margin: auto;
+}
+
+a 
+{text-decoration: none; }
+a:hover
+{text-decoration: underline;}
+a:active {
+color:aqua
+}
+a:visited {
+    color: royalblue;
+}
+.card
+{
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.red {
+    background: rgb(250, 146, 146);
+}
+.green {
+    background: rgb(135, 243, 131);
+}
+.yelow {
+    background: rgb(234, 250, 141);
+}
+.black {
+    background: rgb(219, 134, 94);
+}
+.white {
+    background: rgb(160, 212, 224);
+}
+.lp {
+    background: lightpink;
+    border-radius: 20px;
+    width: 100%;
+}
+.lp td {
+    padding-bottom: 10px;
+
+}
+.card h3 {
+    text-align: center;
+}
+.card h2 {
+    text-align: center;
+}
+.df label {
+    display: block;
+    font-size: 20px;
+}
+.df input
+ {
+    width: 70%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    border-top: 1px solid rgb(0, 0, 0);
+    border-left: 1px solid rgb(0, 0, 0);
+    border-right: 1px solid rgb(0, 0, 0);
+    background:transparent
+}
+.df textarea {
+    width: 70%;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    border-top: 1px solid rgb(0, 0, 0);
+    border-left: 1px solid rgb(0, 0, 0);
+    border-right: 1px solid rgb(0, 0, 0);
+    background:transparent
+}
+.dd {
+    background: #111;
+    color: black;
+    font-family: inherit;
+    cursor: pointer;
+    padding: 10px 10px;
+}
+.dd {
+    opacity: 0.9;
+}
